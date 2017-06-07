@@ -1,0 +1,128 @@
+﻿.ax_default {
+  font-family:'Arial Standard', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+.box_1 {
+}
+.box_3 {
+}
+.ellipse {
+}
+.image {
+}
+.heading_1 {
+  font-family:'Arial Standard', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.heading_2 {
+  font-family:'Arial Standard', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+.heading_3 {
+  font-family:'Arial Standard', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+.heading_4 {
+  font-family:'Arial Standard', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+.heading_5 {
+  font-family:'Arial Standard', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  text-align:left;
+}
+.heading_6 {
+  font-family:'Arial Standard', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+.paragraph {
+  text-align:left;
+}
+.line {
+}
+.arrow {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+.checkbox {
+  text-align:left;
+}
+.flow_shape {
+}
+.table_cell {
+}
+.header_1 {
+  font-family:'Gentium Basic';
+  font-weight:bold;
+  font-style:italic;
+  font-size:36px;
+  color:#000000;
+}
+.header_2 {
+  font-family:'Gentium Basic';
+  font-weight:bold;
+  font-style:italic;
+  font-size:18px;
+  color:#000000;
+}
+.roter_knopf {
+  font-family:'Gentium Basic';
+  font-weight:bold;
+  font-style:italic;
+  font-size:48px;
+  color:#FFFFCC;
+  text-align:center;
+}
+.red_box {
+  font-family:'Gentium Basic Bold Italic', 'Gentium Basic';
+  font-weight:700;
+  font-style:italic;
+  font-size:36px;
+  color:#FFFFCC;
+}
+.grey_box {
+  font-family:'Gentium Basic Bold Italic', 'Gentium Basic';
+  font-weight:700;
+  font-style:italic;
+  font-size:36px;
+  color:#FFFFCC;
+}
+.plain {
+  font-family:'Gentium Basic';
+  font-weight:400;
+  font-style:italic;
+  font-size:28px;
+}
+.icon {
+}
