@@ -12,7 +12,7 @@
   position:absolute;
   z-index:0;
 }
-#u276_img {
+#u476_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -20,7 +20,7 @@
   width:453px;
   height:800px;
 }
-#u276 {
+#u476 {
   border-width:0px;
   position:absolute;
   left:10px;
@@ -28,7 +28,7 @@
   width:453px;
   height:800px;
 }
-#u277 {
+#u477 {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -37,7 +37,91 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u278_img {
+#u478 {
+  border-width:0px;
+  position:absolute;
+  left:241px;
+  top:778px;
+  width:67px;
+  height:32px;
+  overflow:hidden;
+}
+#u478_state0 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:67px;
+  height:32px;
+  -ms-overflow-x:hidden;
+  overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
+  background-image:none;
+}
+#u478_state0_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u478_state1 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:67px;
+  height:32px;
+  visibility:hidden;
+  -ms-overflow-x:hidden;
+  overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
+  background-image:none;
+}
+#u478_state1_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u479_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:69px;
+  height:30px;
+  background:inherit;
+  background-color:rgba(0, 0, 0, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u479 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:69px;
+  height:30px;
+}
+#u480 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:7px;
+  width:65px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u481_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -45,7 +129,7 @@
   width:436px;
   height:786px;
 }
-#u278 {
+#u481 {
   border-width:0px;
   position:absolute;
   left:18px;
@@ -53,7 +137,7 @@
   width:436px;
   height:786px;
 }
-#u279 {
+#u482 {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -62,7 +146,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u280_img {
+#u483_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -70,18 +154,18 @@
   width:376px;
   height:131px;
 }
-#u280 {
+#u483 {
   border-width:0px;
   position:absolute;
   left:52px;
   top:135px;
   width:376px;
   height:131px;
-  font-family:'Gentium Basic Bold Italic', 'Gentium Basic Regular', 'Gentium Basic';
+  font-family:'Gentium Basic Bold Italic', 'Gentium Basic';
   font-weight:700;
   font-style:italic;
 }
-#u281 {
+#u484 {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -89,7 +173,7 @@
   width:372px;
   word-wrap:break-word;
 }
-#u282 {
+#u485 {
   border-width:0px;
   position:absolute;
   left:63px;
@@ -97,7 +181,7 @@
   width:359px;
   height:141px;
 }
-#u283_img {
+#u486_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -105,19 +189,19 @@
   width:177px;
   height:68px;
 }
-#u283 {
+#u486 {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
   width:177px;
   height:68px;
-  font-family:'Gentium Basic Italic', 'Gentium Basic Regular', 'Gentium Basic';
+  font-family:'Gentium Basic Italic', 'Gentium Basic';
   font-weight:400;
   font-style:italic;
   font-size:28px;
 }
-#u284 {
+#u487 {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -125,7 +209,7 @@
   width:173px;
   word-wrap:break-word;
 }
-#u285_img {
+#u488_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -133,19 +217,19 @@
   width:177px;
   height:68px;
 }
-#u285 {
+#u488 {
   border-width:0px;
   position:absolute;
   left:177px;
   top:0px;
   width:177px;
   height:68px;
-  font-family:'Gentium Basic Italic', 'Gentium Basic Regular', 'Gentium Basic';
+  font-family:'Gentium Basic Italic', 'Gentium Basic';
   font-weight:400;
   font-style:italic;
   font-size:20px;
 }
-#u286 {
+#u489 {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -153,7 +237,7 @@
   width:173px;
   word-wrap:break-word;
 }
-#u287_img {
+#u490_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -161,19 +245,19 @@
   width:177px;
   height:68px;
 }
-#u287 {
+#u490 {
   border-width:0px;
   position:absolute;
   left:0px;
   top:68px;
   width:177px;
   height:68px;
-  font-family:'Gentium Basic Italic', 'Gentium Basic Regular', 'Gentium Basic';
+  font-family:'Gentium Basic Italic', 'Gentium Basic';
   font-weight:400;
   font-style:italic;
   font-size:28px;
 }
-#u288 {
+#u491 {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -181,7 +265,7 @@
   width:173px;
   word-wrap:break-word;
 }
-#u289_img {
+#u492_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -189,19 +273,19 @@
   width:177px;
   height:68px;
 }
-#u289 {
+#u492 {
   border-width:0px;
   position:absolute;
   left:177px;
   top:68px;
   width:177px;
   height:68px;
-  font-family:'Gentium Basic Italic', 'Gentium Basic Regular', 'Gentium Basic';
+  font-family:'Gentium Basic Italic', 'Gentium Basic';
   font-weight:400;
   font-style:italic;
   font-size:20px;
 }
-#u290 {
+#u493 {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -209,7 +293,7 @@
   width:173px;
   word-wrap:break-word;
 }
-#u291_div {
+#u494_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -223,28 +307,28 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Gentium Basic Italic', 'Gentium Basic Regular', 'Gentium Basic';
+  font-family:'Gentium Basic Italic', 'Gentium Basic';
   font-weight:400;
   font-style:italic;
   font-size:28px;
   color:#000000;
   text-align:left;
 }
-#u291 {
+#u494 {
   border-width:0px;
   position:absolute;
   left:52px;
   top:486px;
   width:376px;
   height:47px;
-  font-family:'Gentium Basic Italic', 'Gentium Basic Regular', 'Gentium Basic';
+  font-family:'Gentium Basic Italic', 'Gentium Basic';
   font-weight:400;
   font-style:italic;
   font-size:28px;
   color:#000000;
   text-align:left;
 }
-#u292 {
+#u495 {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -252,7 +336,7 @@
   width:372px;
   word-wrap:break-word;
 }
-#u293_div {
+#u496_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -270,7 +354,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u293 {
+#u496 {
   border-width:0px;
   position:absolute;
   left:86px;
@@ -278,7 +362,7 @@
   width:301px;
   height:46px;
 }
-#u294 {
+#u497 {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -286,7 +370,7 @@
   width:297px;
   word-wrap:break-word;
 }
-#u295_div {
+#u498_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -300,28 +384,28 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Gentium Basic Italic', 'Gentium Basic Regular', 'Gentium Basic';
+  font-family:'Gentium Basic Italic', 'Gentium Basic';
   font-weight:400;
   font-style:italic;
   font-size:28px;
   color:#000000;
   text-align:left;
 }
-#u295 {
+#u498 {
   border-width:0px;
   position:absolute;
   left:52px;
   top:591px;
   width:376px;
   height:36px;
-  font-family:'Gentium Basic Italic', 'Gentium Basic Regular', 'Gentium Basic';
+  font-family:'Gentium Basic Italic', 'Gentium Basic';
   font-weight:400;
   font-style:italic;
   font-size:28px;
   color:#000000;
   text-align:left;
 }
-#u296 {
+#u499 {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -329,7 +413,7 @@
   width:372px;
   word-wrap:break-word;
 }
-#u297_div {
+#u500_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -343,28 +427,28 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Gentium Basic Bold Italic', 'Gentium Basic Regular', 'Gentium Basic';
+  font-family:'Gentium Basic Bold Italic', 'Gentium Basic';
   font-weight:700;
   font-style:italic;
   font-size:28px;
   color:#000000;
   text-align:left;
 }
-#u297 {
+#u500 {
   border-width:0px;
   position:absolute;
   left:52px;
   top:438px;
   width:376px;
   height:48px;
-  font-family:'Gentium Basic Bold Italic', 'Gentium Basic Regular', 'Gentium Basic';
+  font-family:'Gentium Basic Bold Italic', 'Gentium Basic';
   font-weight:700;
   font-style:italic;
   font-size:28px;
   color:#000000;
   text-align:left;
 }
-#u298 {
+#u501 {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -372,7 +456,7 @@
   width:372px;
   word-wrap:break-word;
 }
-#u299_div {
+#u502_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -390,7 +474,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u299 {
+#u502 {
   border-width:0px;
   position:absolute;
   left:86px;
@@ -398,7 +482,7 @@
   width:301px;
   height:46px;
 }
-#u300 {
+#u503 {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -406,7 +490,7 @@
   width:297px;
   word-wrap:break-word;
 }
-#u301_div {
+#u504_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -423,26 +507,26 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Gentium Basic Bold Italic', 'Gentium Basic Regular', 'Gentium Basic';
+  font-family:'Gentium Basic Bold Italic', 'Gentium Basic';
   font-weight:700;
   font-style:italic;
   font-size:36px;
   color:#FFFFCC;
 }
-#u301 {
+#u504 {
   border-width:0px;
   position:absolute;
   left:18px;
   top:760px;
   width:152px;
   height:47px;
-  font-family:'Gentium Basic Bold Italic', 'Gentium Basic Regular', 'Gentium Basic';
+  font-family:'Gentium Basic Bold Italic', 'Gentium Basic';
   font-weight:700;
   font-style:italic;
   font-size:36px;
   color:#FFFFCC;
 }
-#u302 {
+#u505 {
   border-width:0px;
   position:absolute;
   left:2px;
